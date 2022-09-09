@@ -1,0 +1,117 @@
+h2{
+    color: green;
+    font-size: 65px;
+} 
+.command{
+    color: black;
+    text-transform: lowercase;}
+.fone{ 
+    text-align: right;
+ }
+ .first{
+     color: 6D382D;
+     text-align: center;
+ }
+ .para1{
+     color: rebeccapurple;
+ }
+ .teach{
+     color: brown;
+     text-transform: uppercase;
+     text-decoration: underline;
+ }
+ .firstsection{
+     text-align: center;
+ }
+.container .row .col .firstcolor{
+     background-color: red;
+     height: 30px;
+     width: 350px;
+     display: inline-block;
+     padding-bottom: 15px;
+     margin-bottom: 30px;
+     margin-right: 50px;
+     
+ }
+
+ .container .row .col .secondcolor{
+    background-color: green;
+    height: 30px;
+    width: 350px;
+    display: inline-block;
+    padding-bottom: 15px;
+    margin-right: 50px;
+    
+}
+.container .row .col .thirdcolor{
+    background-color: brown;
+    height: 30px;
+    width: 350px;
+    display: inline-block;
+    padding-bottom: 15px;
+    margin-right: 50px;
+    
+}
+.container .row .col .fourthcolor{
+    background-color: black;
+    height: 30px;
+    width: 350px;
+    display: inline-block;
+    padding-bottom: 15px;
+    
+    
+}
+.firstcolor p{
+    color: white;
+    
+}
+.topic{
+    text-align: center;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+}
+
+.topic1{
+text-align: center;
+color: blue;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin-top: 30px;
+}
+.secondsection{
+    text-align: center;
+    
+}
+.container .row .col .auntyfirstcolor{
+    background-color: blue;
+    height: 30px;
+    width: 350px;
+    display: inline-block;
+    padding-bottom: 15px;
+    
+}
+ 
+.container .row .col .auntycoconcolor{
+    background-color: rgb(58, 56, 40);
+    height: 30px;
+    width: 350px;
+    display: inline-block;
+    padding-bottom: 15px;
+}
+
+.container .row .col .auntythirdcolor{
+    background-color: rgb(243, 127, 18);
+    height: 30px;
+    width: 350px;
+    display: inline-block;
+    padding-bottom: 15px;
+}
+
+
+.container .row .col .auntyfourthcolor{
+    background-color: rgb(18, 191, 243);
+    height: 30px;
+    width: 350px;
+    display: inline-block;
+    padding-bottom: 15px;
+}
